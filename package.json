@@ -120,7 +120,7 @@
     "sass-loader": "^7.1.0",
     "standard-version": "^5.0.2",
     "terser": "^3.17.0",
-    "typescript": "^3.3.3"
+    "typescript": "^3.3.3",
     "vue": "^2.6.9",
     "vue-jest": "^3.0.4",
     "vue-router": "^3.0.2",
